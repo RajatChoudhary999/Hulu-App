@@ -1,0 +1,15 @@
+.footer {
+    border-top: 1px solid lightgray;
+    padding: 20px;
+    background-image: linear-gradient(to right, #051421 ,#042727);
+    text-align: center;
+}
+
+.footer > p {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-weight: 200;
+    font-size: 1rem;
+    opacity: 0.7;
+    color: white;
+}

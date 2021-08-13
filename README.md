@@ -1,4 +1,4 @@
-Live Demo [LIVE DEMO](https://hulu-clone-f7f1d9u.netlify.app/).
+[LIVE DEMO](https://hulu-clone-f7f1d9u.netlify.app/).
 
 # Getting Started with Create React App
 

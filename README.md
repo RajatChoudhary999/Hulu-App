@@ -1,3 +1,5 @@
+[Live Demo](https://hulu-clone-f7f1d9u.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
